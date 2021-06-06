@@ -2,6 +2,9 @@
 
 This directory contains code to simulate tides in Grays Harbor, WA.
 
+See [GraysSine.ipynb](sine_forcing/GraysSine.html) for some
+discussion of the approach used to force the tide.
+
 ## `topo` directory
 
 Use [GraysHarborMTL.ipynb](topo/GraysHarborMTL.html) to download 1/3 arcsecond
